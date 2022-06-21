@@ -19,8 +19,8 @@ import {
 import Auth0 from 'react-native-auth0';
 
 const Auth0ClientOpts = {
-  domain: 'dev-v-kek6e3.us.auth0.com',
-  clientId: 'com.hypernova.os://dev-v-kek6e3.us.auth0.com/macos/com.hypernova.os/callback',
+  domain: 'ADD DOMAIN HERE',
+  clientId: 'ADD CLIENT ID HERE',
 }
 
 const App: () => JSX.Element = () => {
