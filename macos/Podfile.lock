@@ -452,7 +452,7 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-macos/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
-  A0Auth0: fafeb2a86ed5498028ea72c3fdb06d0e0855448a
+  A0Auth0: 650e33fc16ba6412322bdb7c500f1e9119c2eb04
   boost-for-react-native: d5ad1140010aa8cb622323a781ecbeab4425d19a
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   DoubleConversion: 0ea4559a49682230337df966e735d6cc7760108e
